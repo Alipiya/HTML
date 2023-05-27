@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.menu_decoration {
+  list-style: none;
+}
+
+.menu_ssilka {
+  text-decoration: none;
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+h1 {
+  color: #222;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: bold;
+}
+
+p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7D7987;
+}
+
+h2 {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px;
+}
